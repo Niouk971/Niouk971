@@ -60,20 +60,20 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 
 ## 🧰 Compétences
 
+<!-- markdownlint-disable MD033 -->
+
 ### 💻 **Frontend**
 
 - React, Next.js (App Router, Server/Client Components)  
 - TailwindCSS, CSS Modules  
 - UI responsive, composants réutilisables, logique propre  
 
-<!-- markdownlint-disable MD033 -->
 <p>
   <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
-<!-- markdownlint-enable MD033 -->
 
 ---
 
@@ -84,13 +84,11 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 - Authentification (sessions, cookies, tokens)  
 - Sécurité, middleware, validation  
 
-<!-- markdownlint-disable MD033 -->
 <p>
   <img src="https://img.shields.io/badge/Node.js-3c873a?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000?style=flat&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/DrizzleORM-f97316?style=flat" alt="Drizzle ORM" />
 </p>
-<!-- markdownlint-enable MD033 -->
 
 ---
 
@@ -100,12 +98,10 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 - Drizzle ORM  
 - Migrations, relations, requêtes complexes  
 
-<!-- markdownlint-disable MD033 -->
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-31648c?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/NeonDB-00e599?style=flat" alt="NeonDB" />
 </p>
-<!-- markdownlint-enable MD033 -->
 
 ---
 
@@ -115,12 +111,12 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 - Git & GitHub (branches, PR, workflow propre)  
 - Debugging, logs, optimisation  
 
-<!-- markdownlint-disable MD033 -->
 <p>
   <img src="https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
 </p>
+
 <!-- markdownlint-enable MD033 -->
 
 ---
