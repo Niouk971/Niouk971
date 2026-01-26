@@ -151,10 +151,43 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
   <p>
     <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs" alt="Next.js" />
     <img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
     <img src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
     <img src="https://img.shields.io/badge/PostgreSQL-31648c?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     <img src="https://img.shields.io/badge/DrizzleORM-f97316?style=flat" alt="Drizzle ORM" />
     <img src="https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
+  </p>
+
+</details>
+
+---
+<details>
+  <summary><strong>🔹 Ada Check Event — Gestion d’événements</strong></summary>
+  <br>
+
+  <!-- Screenshots -->
+  <p align="center">
+    <img src="URL_SCREENSHOT_1" alt="Aperçu 1 du projet Ada Check Event" width="45%" />
+    <img src="URL_SCREENSHOT_2" alt="Aperçu 2 du projet Ada Check Event" width="45%" />
+    <br><br>
+    <img src="URL_SCREENSHOT_3" alt="Aperçu 3 du projet Ada Check Event" width="45%" />
+    <img src="URL_SCREENSHOT_4" alt="Aperçu 4 du projet Ada Check Event" width="45%" />
+  </p>
+
+  <br>
+
+  Application de gestion d’événements et de participants.
+
+- 🖥️ Démo : <https://projet-collectif-ada-check-event.vercel.app/>
+- 📦 Repo : <https://github.com/Niouk971/projet-collectif-ada-check-event>
+
+### 🧰 Stack utilisée {#stack-adacheckevent}
+
+  <p>
+    <img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
   </p>
 
 </details>
@@ -178,7 +211,8 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 
   Application web permettant de gérer des actions et missions dans un contexte collaboratif.
 
-- 📦 Repo : <https://github.com/Niouk971/adaction>
+- 🖥️ Démo : <https://projet-collectif-adaction.vercel.app/>
+- 📦 Repo : <https://github.com/Niouk971/projet-collectif-adaction>
 
 ### 🧰 Stack utilisée {#stack-adaction}
 
@@ -209,40 +243,10 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 
   Projet inspiré d’un site d’adoption d’animaux.
 
-- 📦 Repo : <https://github.com/Niouk971/adaopte>
+- 🖥️ Démo : <https://projet-personnel-adaopte.vercel.app/>
+- 📦 Repo : <https://github.com/Niouk971/projet-personnel-adaopte>
 
 ### 🧰 Stack utilisée {#stack-adaopte}
-
-  <p>
-    <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-  </p>
-
-</details>
-
----
-
-<details>
-  <summary><strong>🔹 Ada Check Event — Gestion d’événements</strong></summary>
-  <br>
-
-  <!-- Screenshots -->
-  <p align="center">
-    <img src="URL_SCREENSHOT_1" alt="Aperçu 1 du projet Ada Check Event" width="45%" />
-    <img src="URL_SCREENSHOT_2" alt="Aperçu 2 du projet Ada Check Event" width="45%" />
-    <br><br>
-    <img src="URL_SCREENSHOT_3" alt="Aperçu 3 du projet Ada Check Event" width="45%" />
-    <img src="URL_SCREENSHOT_4" alt="Aperçu 4 du projet Ada Check Event" width="45%" />
-  </p>
-
-  <br>
-
-  Application de gestion d’événements et de participants.
-
-- 📦 Repo : <https://github.com/Niouk971/ada-check-event>
-
-### 🧰 Stack utilisée {#stack-adacheckevent}
 
   <p>
     <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -271,13 +275,13 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 
   Projet de visualisation de données : graphiques, statistiques, manipulation de datasets.
 
-- 📦 Repo : <https://github.com/Niouk971/dataviz>
+- 🖥️ Démo : <https://projet-collectif-dataviz.vercel.app/>
+- 📦 Repo : <https://github.com/Niouk971/projet-collectif-dataviz>
 
 ### 🧰 Stack utilisée {#stack-dataviz}
 
   <p>
     <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Chart.js-ff6384?style=flat&logo=chartdotjs&logoColor=white" alt="Chart.js" />
     <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
   </p>
@@ -303,7 +307,8 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 
   Application de quiz interactive avec gestion du score et progression.
 
-- 📦 Repo : <https://github.com/Niouk971/quiz>
+- 🖥️ Démo : <https://projet-collectif-quiz.vercel.app/>
+- 📦 Repo : <https://github.com/Niouk971/projet-collectif-quiz>
 
 ### 🧰 Stack utilisée {#stack-quiz}
 
@@ -346,7 +351,7 @@ Ce que je peux apporter :
 ## 📩 Contact
 
 Si mon profil t’intéresse, n’hésite pas à me contacter :  
-**→ florian (ton email ici)**
+**→ florian (<florian.polter.77@gmail.com>)**
 
 ---
 
