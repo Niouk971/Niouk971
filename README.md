@@ -140,8 +140,22 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 
   <br>
 
-  Application full‑stack moderne en Next.js, PostgreSQL et Drizzle ORM, avec Server Actions.  
-  Projet collectif permettant de consulter, commenter et gérer des projets étudiants.
+### ✨ Fonctionnalités principales {#features-adaverse}
+
+- Publication, consultation, commentaire et gestion de projets étudiants  
+- Système d’authentification user/admin
+- Gestion des favoris  
+- Filtrage des projets par promotion et par statut (publié / en attente côté admin)
+
+### 🧩 Réalisations techniques {#tech-adaverse}
+
+- Application full‑stack en Next.js avec Server Actions  
+- Base de données PostgreSQL  
+- ORM Drizzle pour les migrations et requêtes  
+- Architecture moderne et scalable
+
+📅 **Durée :** 2 semaines  
+👥 **Équipe :** 4 personnes
 
 - 🖥️ Démo : <https://adaverse-2-0.vercel.app>  
 - 📦 Repo : <https://github.com/Niouk971/projet-collectif-adaverse-2.0>
@@ -162,7 +176,7 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 
 ---
 <details>
-  <summary><strong>🔹 Ada Check Event — Gestion d’événements</strong></summary>
+  <summary><strong>🔹 Ada Check Event — Recensement d’événements publics à Paris</strong></summary>
   <br>
 
   <!-- Screenshots -->
@@ -176,7 +190,21 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 
   <br>
 
-  Application de gestion d’événements et de participants.
+### ✨ Fonctionnalités principales {#features-adacheckevent}
+
+- Affichage des événements publics à Paris  
+- Recherche d’événements via mots‑clés  
+- Page de favoris pour sauvegarder des événements  
+- Affichage détaillé avec un bouton “voir plus” pour la description
+
+### 🧩 Réalisations techniques {#tech-adacheckevent}
+
+- Utilisation de `useState` et `useEffect` pour la gestion de l’état et des appels API  
+- Affichage dynamique des données avec boucle `.map()`  
+- Création d’un composant dédié pour l’extension de la description (“voir plus”)  
+
+📅 **Durée :** 2 semaines  
+👥 **Équipe :** 2 personnes
 
 - 🖥️ Démo : <https://projet-collectif-ada-check-event.vercel.app/>
 - 📦 Repo : <https://github.com/Niouk971/projet-collectif-ada-check-event>
@@ -195,7 +223,7 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 ---
 
 <details>
-  <summary><strong>🔹 AdAction — Gestion d’actions et missions</strong></summary>
+  <summary><strong>🔹 AdAction — Site de gestion des collectes de déchets</strong></summary>
   <br>
 
   <!-- Screenshots -->
@@ -209,7 +237,21 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 
   <br>
 
-  Application web permettant de gérer des actions et missions dans un contexte collaboratif.
+### ✨ Fonctionnalités principales {#features-adaction}
+
+- Organisation de collectes de déchets dans différentes villes  
+- Gestion des utilisateurs (user/admin) avec ajout de nouveaux comptes  
+- Tableau de bord listant les collectes réalisées  
+- Déclaration rapide d’une nouvelle collecte  
+
+### 🧩 Réalisations techniques {#tech-adaction}
+
+- Conception du schéma de base de données  
+- Création d’une base Neon  
+- Mise en place d’un CRUD complet (GET, POST, UPDATE, DELETE)
+
+📅 **Durée :** 2 semaines
+👥 **Équipe :** 3 personnes
 
 - 🖥️ Démo : <https://projet-collectif-adaction.vercel.app/>
 - 📦 Repo : <https://github.com/Niouk971/projet-collectif-adaction>
@@ -217,6 +259,7 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 ### 🧰 Stack utilisée {#stack-adaction}
 
   <p>
+    <img src="https://img.shields.io/badge/Express.js-000?style=flat&logo=express&logoColor=white" alt="Express.js" />
     <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
@@ -241,7 +284,27 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 
   <br>
 
-  Projet inspiré d’un site d’adoption d’animaux.
+### ✨ Fonctionnalités principales {#features-adaopte}
+
+- Barre de navigation permettant de naviguer entre les différentes pages du site  
+- Formulaire de recherche pour filtrer les animaux par type (chien, chat, lapin, rongeur) et par localisation (ville ou département)  
+- Affichage dynamique des animaux sous forme de cartes  
+- Footer contenant les informations essentielles du site  
+- Menu burger pour la navigation mobile
+
+### 🧩 Réalisations techniques {#tech-adaopte}
+
+- Mise en place d’un menu burger responsive, avec ouverture/fermeture via JavaScript  
+- Navigation multi‑pages (MPA) avec plusieurs fichiers HTML organisés dans des dossiers (`pages/`, `css/`, `data/`, `icons/`)  
+- Accessibilité renforcée grâce aux attributs ARIA (`aria-label`) et à une structure sémantique propre  
+- Création d’une grille responsive affichant les animaux, adaptée aux différentes tailles d’écran  
+- Chargement des données depuis un fichier JSON (`animals.json`) et affichage dynamique via JavaScript  
+- Filtrage des animaux selon les critères du formulaire (type + localisation)  
+- Utilisation de `DOMContentLoaded`, `fetch()`, `async/await` et de la méthode `.map()` pour générer les cartes  
+- Gestion des événements (`click`, `submit`) et prévention du rechargement de page avec `e.preventDefault()`
+
+📅 **Durée :** 2 semaines
+👥 **Équipe :** Projet individuel
 
 - 🖥️ Démo : <https://projet-personnel-adaopte.vercel.app/>
 - 📦 Repo : <https://github.com/Niouk971/projet-personnel-adaopte>
@@ -273,7 +336,34 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 
   <br>
 
-  Projet de visualisation de données : graphiques, statistiques, manipulation de datasets.
+### ✨ Fonctionnalités principales {#features-dataviz}
+
+- Visualisation de données autour de l’univers du manga *Naruto*  
+- Exploration du village caché de Konoha : hiérarchie (Kage, Anbu, Academy Student…) et clans emblématiques (Uzumaki, Uchiha, Hyuga…)  
+- Description détaillée pour chaque hiérarchie et chaque clan  
+- Affichage des personnages appartenant à chaque catégorie sous forme de cartes comprenant :  
+  - photo  
+  - nom et prénom  
+- Page dédiée pour chaque personnage, incluant :  
+  - membres de la famille  
+  - groupe sanguin  
+  - numéro d'immatriculation ninja  
+  - première apparition dans le manga et dans l’anime  
+- Intégration d’une ambiance sonore avec la musique de *Naruto*  
+
+### 🧩 Réalisations techniques {#tech-dataviz}
+
+- Utilisation d’une API Naruto pour récupérer dynamiquement les données (première utilisation d’une API dans un projet)  
+- Requêtes `fetch()` avec gestion asynchrone (`async/await`) pour charger les informations des clans, hiérarchies et personnages  
+- Génération dynamique du contenu : création des fiches, affichage conditionnel et mise en forme des données reçues  
+- Construction d’une grille responsive pour afficher les cartes des personnages (photo + nom/prénom)  
+- Organisation du projet en plusieurs pages pour structurer la navigation (hiérarchie, clans, personnages)  
+- Manipulation du DOM pour injecter les données dans les sections correspondantes  
+- Gestion des erreurs lors des appels API (`try/catch`)  
+- Ajout d’une source audio intégrée au site pour renforcer l’immersion  
+
+📅 **Durée :** 2 semaines
+👥 **Équipe :** 3 personnes
 
 - 🖥️ Démo : <https://projet-collectif-dataviz.vercel.app/>
 - 📦 Repo : <https://github.com/Niouk971/projet-collectif-dataviz>
@@ -306,6 +396,10 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
   <br>
 
   Application de quiz interactive avec gestion du score et progression.
+
+### ✨ Fonctionnalités principales {#features-quiz}
+
+### 🧩 Réalisations techniques {#tech-quiz}
 
 - 🖥️ Démo : <https://projet-collectif-quiz.vercel.app/>
 - 📦 Repo : <https://github.com/Niouk971/projet-collectif-quiz>
