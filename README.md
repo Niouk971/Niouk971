@@ -395,11 +395,30 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 
   <br>
 
-  Application de quiz interactive avec gestion du score et progression.
-
 ### ✨ Fonctionnalités principales {#features-quiz}
 
+- Quiz sur le thème du code, avec un visuel inspiré de l’univers du film *Matrix*  
+- Gestion du score et suivi de la progression des questions  
+- Décompte en secondes pour répondre, avec affichage automatique de la correction à la fin du timer ou dès que le joueur répond  
+- Code couleur pour indiquer la bonne ou la mauvaise réponse
+- Message personnalisé en fin de quiz en fonction du score obtenu  
+
 ### 🧩 Réalisations techniques {#tech-quiz}
+
+- Manipulation du DOM pour afficher dynamiquement les questions, réponses, explications et messages de fin  
+- Gestion du timer avec `setInterval()` pour synchroniser le décompte et la barre de progression du temps  
+- Mise en place d’un système de score et de suivi de la progression via des variables d’état internes  
+- Utilisation d’une structure de données (tableau d’objets) pour stocker les questions, réponses, explications et solutions  
+- Application d’un code couleur dynamique pour indiquer la validité des réponses (classes CSS ajoutées/retirées en JavaScript)  
+- Génération dynamique de la barre de progression des questions via une boucle créant des `<span>`  
+- Gestion des événements (`click`) pour les réponses, avec blocage des interactions après validation  
+- Mise en place d’un système d’affichage conditionnel :  
+  - explication affichée après réponse ou fin du timer  
+  - message final personnalisé selon le score  
+- Effets CSS (hover, transitions, ambiance Matrix) pour renforcer l’immersion visuelle  
+
+📅 **Durée :** 2 semaines
+👥 **Équipe :** 3 personnes
 
 - 🖥️ Démo : <https://projet-collectif-quiz.vercel.app/>
 - 📦 Repo : <https://github.com/Niouk971/projet-collectif-quiz>
