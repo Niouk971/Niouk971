@@ -131,11 +131,11 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 
   <!-- Screenshots -->
   <p align="center">
-    <img src="URL_SCREENSHOT_1" alt="Aperçu 1 du projet Adaverse 2.0" width="45%" />
-    <img src="URL_SCREENSHOT_2" alt="Aperçu 2 du projet Adaverse 2.0" width="45%" />
+    <img src="screenshots/adaverse-2-0/adaverse-2-0-main-page-guest.png" alt="Aperçu 1 du projet Adaverse 2.0" width="45%" />
+    <img src="screenshots/adaverse-2-0/adaverse-2-0-favorites-page-user.png" alt="Aperçu 2 du projet Adaverse 2.0" width="45%" />
     <br><br>
-    <img src="URL_SCREENSHOT_3" alt="Aperçu 3 du projet Adaverse 2.0" width="45%" />
-    <img src="URL_SCREENSHOT_4" alt="Aperçu 4 du projet Adaverse 2.0" width="45%" />
+    <img src="screenshots/adaverse-2-0/adaverse-2-0-main-page-admin-pending-projects.png" alt="Aperçu 3 du projet Adaverse 2.0" width="45%" />
+    <img src="screenshots/adaverse-2-0/adaverse-2-0-profile-page.png" alt="Aperçu 4 du projet Adaverse 2.0" width="45%" />
   </p>
 
   <br>
@@ -144,15 +144,20 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 
 - Publication, consultation, commentaire et gestion de projets étudiants  
 - Système d’authentification user/admin
+- Gestion du profil (photo de profil, nom, email, mot de passe)
 - Gestion des favoris  
 - Filtrage des projets par promotion et par statut (publié / en attente côté admin)
 
 ### 🧩 Réalisations techniques {#tech-adaverse}
 
-- Application full‑stack en Next.js avec Server Actions  
-- Base de données PostgreSQL  
-- ORM Drizzle pour les migrations et requêtes  
-- Architecture moderne et scalable
+- Application full‑stack en **Next.js (App Router)** avec **Server Actions** pour sécuriser les opérations sensibles  
+- Base de données **PostgreSQL** gérée avec **Drizzle ORM** (schémas typés, migrations, requêtes SQL type‑safe)  
+- Système d’authentification complet avec gestion des rôles **user/admin** et sécurisation des routes  
+- CRUD complet pour les projets : création, édition, suppression, statut publié/en attente  
+- Gestion du profil utilisateur (informations + photo de profil)  
+- Système de favoris lié à l’utilisateur  
+- Filtrage des projets par promotion et par statut  
+- Architecture modulaire et scalable combinant **Server Components** et **Client Components**
 
 📅 **Durée :** 2 semaines  
 👥 **Équipe :** 4 personnes
@@ -195,13 +200,17 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 - Affichage des événements publics à Paris  
 - Recherche d’événements via mots‑clés  
 - Page de favoris pour sauvegarder des événements  
-- Affichage détaillé avec un bouton “voir plus” pour la description
+- Affichage détaillé d’un événement avec un bouton "voir plus" pour étendre la description
 
 ### 🧩 Réalisations techniques {#tech-adacheckevent}
 
-- Utilisation de `useState` et `useEffect` pour la gestion de l’état et des appels API  
-- Affichage dynamique des données avec boucle `.map()`  
-- Création d’un composant dédié pour l’extension de la description (“voir plus”)  
+- Appels API pour récupérer les événements publics et mise à jour de l’interface en temps réel  
+- Gestion de l’état avec `useState` et déclenchement des appels API via `useEffect`  
+- Affichage dynamique des résultats grâce à la méthode `.map()`  
+- Mise en place d’un système de favoris persistant via le `localStorage`  
+- Création d’un composant dédié pour l’extension/réduction de la description ("voir plus")  
+- Filtrage des événements côté client en fonction des mots‑clés saisis  
+- Architecture en composants réutilisables pour organiser la liste, les cartes d’événements et les favoris
 
 📅 **Durée :** 2 semaines  
 👥 **Équipe :** 2 personnes
@@ -246,9 +255,13 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 
 ### 🧩 Réalisations techniques {#tech-adaction}
 
-- Conception du schéma de base de données  
-- Création d’une base Neon  
-- Mise en place d’un CRUD complet (GET, POST, UPDATE, DELETE)
+- Conception du schéma de base de données et création d’une instance PostgreSQL sur **Neon**  
+- Mise en place d’un **CRUD complet** pour les collectes et les utilisateurs (GET, POST, PUT, DELETE)  
+- API construite avec **Express.js**, incluant des routes dédiées pour les collectes, l’authentification et la gestion des utilisateurs  
+- Gestion des rôles (user/admin) avec sécurisation des endpoints sensibles  
+- Validation des données côté serveur pour garantir l’intégrité des entrées  
+- Architecture structurée en modules : routes, contrôleurs, services et accès à la base  
+- Tests manuels des endpoints via Postman pour vérifier le bon fonctionnement de l’API
 
 📅 **Durée :** 2 semaines
 👥 **Équipe :** 3 personnes
