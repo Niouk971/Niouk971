@@ -140,7 +140,7 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 
   <br>
 
-### ✨ Fonctionnalités principales {#features-adaverse}
+### ✨ Fonctionnalités principales
 
 - Publication, consultation, commentaire et gestion de projets étudiants  
 - Système d’authentification user/admin
@@ -148,7 +148,7 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 - Gestion des favoris  
 - Filtrage des projets par promotion et par statut (publié / en attente côté admin)
 
-### 🧩 Réalisations techniques {#tech-adaverse}
+### 🧩 Réalisations techniques
 
 - Application full‑stack en **Next.js (App Router)** avec **Server Actions** pour sécuriser les opérations sensibles  
 - Base de données **PostgreSQL** gérée avec **Drizzle ORM** (schémas typés, migrations, requêtes SQL type‑safe)  
@@ -165,7 +165,7 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 - 🖥️ Démo : <https://adaverse-2-0.vercel.app>  
 - 📦 Repo : <https://github.com/Niouk971/projet-collectif-adaverse-2.0>
 
-### 🧰 Stack utilisée {#stack-adaverse}
+### 🧰 Stack utilisée
 
   <p>
     <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs" alt="Next.js" />
@@ -195,14 +195,14 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 
   <br>
 
-### ✨ Fonctionnalités principales {#features-adacheckevent}
+### ✨ Fonctionnalités principales
 
 - Affichage des événements publics à Paris  
 - Recherche d’événements via mots‑clés  
 - Page de favoris pour sauvegarder des événements  
 - Affichage détaillé d’un événement avec un bouton "voir plus" pour étendre la description
 
-### 🧩 Réalisations techniques {#tech-adacheckevent}
+### 🧩 Réalisations techniques
 
 - Appels API pour récupérer les événements publics et mise à jour de l’interface en temps réel  
 - Gestion de l’état avec `useState` et déclenchement des appels API via `useEffect`  
@@ -218,7 +218,7 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 - 🖥️ Démo : <https://projet-collectif-ada-check-event.vercel.app/>
 - 📦 Repo : <https://github.com/Niouk971/projet-collectif-ada-check-event>
 
-### 🧰 Stack utilisée {#stack-adacheckevent}
+### 🧰 Stack utilisée
 
   <p>
     <img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=white" alt="React" />
@@ -246,14 +246,14 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 
   <br>
 
-### ✨ Fonctionnalités principales {#features-adaction}
+### ✨ Fonctionnalités principales
 
 - Organisation de collectes de déchets dans différentes villes  
 - Gestion des utilisateurs (user/admin) avec ajout de nouveaux comptes  
 - Tableau de bord listant les collectes réalisées  
 - Déclaration rapide d’une nouvelle collecte  
 
-### 🧩 Réalisations techniques {#tech-adaction}
+### 🧩 Réalisations techniques
 
 - Conception du schéma de base de données et création d’une instance PostgreSQL sur **Neon**  
 - Mise en place d’un **CRUD complet** pour les collectes et les utilisateurs (GET, POST, PUT, DELETE)  
@@ -269,7 +269,7 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 - 🖥️ Démo : <https://projet-collectif-adaction.vercel.app/>
 - 📦 Repo : <https://github.com/Niouk971/projet-collectif-adaction>
 
-### 🧰 Stack utilisée {#stack-adaction}
+### 🧰 Stack utilisée
 
   <p>
     <img src="https://img.shields.io/badge/Express.js-000?style=flat&logo=express&logoColor=white" alt="Express.js" />
@@ -297,7 +297,7 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 
   <br>
 
-### ✨ Fonctionnalités principales {#features-adaopte}
+### ✨ Fonctionnalités principales
 
 - Barre de navigation permettant de naviguer entre les différentes pages du site  
 - Formulaire de recherche pour filtrer les animaux par type (chien, chat, lapin, rongeur) et par localisation (ville ou département)  
@@ -305,7 +305,7 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 - Footer contenant les informations essentielles du site  
 - Menu burger pour la navigation mobile
 
-### 🧩 Réalisations techniques {#tech-adaopte}
+### 🧩 Réalisations techniques
 
 - Mise en place d’un menu burger responsive, avec ouverture/fermeture via JavaScript  
 - Navigation multi‑pages (MPA) avec plusieurs fichiers HTML organisés dans des dossiers (`pages/`, `css/`, `data/`, `icons/`)  
@@ -322,7 +322,7 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 - 🖥️ Démo : <https://projet-personnel-adaopte.vercel.app/>
 - 📦 Repo : <https://github.com/Niouk971/projet-personnel-adaopte>
 
-### 🧰 Stack utilisée {#stack-adaopte}
+### 🧰 Stack utilisée
 
   <p>
     <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -349,7 +349,7 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 
   <br>
 
-### ✨ Fonctionnalités principales {#features-dataviz}
+### ✨ Fonctionnalités principales
 
 - Visualisation de données autour de l’univers du manga *Naruto*  
 - Exploration du village caché de Konoha : hiérarchie (Kage, Anbu, Academy Student…) et clans emblématiques (Uzumaki, Uchiha, Hyuga…)  
@@ -364,7 +364,7 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
   - première apparition dans le manga et dans l’anime  
 - Intégration d’une ambiance sonore avec la musique de *Naruto*  
 
-### 🧩 Réalisations techniques {#tech-dataviz}
+### 🧩 Réalisations techniques
 
 - Utilisation d’une API Naruto pour récupérer dynamiquement les données (première utilisation d’une API dans un projet)  
 - Requêtes `fetch()` avec gestion asynchrone (`async/await`) pour charger les informations des clans, hiérarchies et personnages  
@@ -381,7 +381,7 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 - 🖥️ Démo : <https://projet-collectif-dataviz.vercel.app/>
 - 📦 Repo : <https://github.com/Niouk971/projet-collectif-dataviz>
 
-### 🧰 Stack utilisée {#stack-dataviz}
+### 🧰 Stack utilisée
 
   <p>
     <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -408,7 +408,7 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 
   <br>
 
-### ✨ Fonctionnalités principales {#features-quiz}
+### ✨ Fonctionnalités principales
 
 - Quiz sur le thème du code, avec un visuel inspiré de l’univers du film *Matrix*  
 - Gestion du score et suivi de la progression des questions  
@@ -416,7 +416,7 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 - Code couleur pour indiquer la bonne ou la mauvaise réponse
 - Message personnalisé en fin de quiz en fonction du score obtenu  
 
-### 🧩 Réalisations techniques {#tech-quiz}
+### 🧩 Réalisations techniques
 
 - Manipulation du DOM pour afficher dynamiquement les questions, réponses, explications et messages de fin  
 - Gestion du timer avec `setInterval()` pour synchroniser le décompte et la barre de progression du temps  
@@ -436,7 +436,7 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 - 🖥️ Démo : <https://projet-collectif-quiz.vercel.app/>
 - 📦 Repo : <https://github.com/Niouk971/projet-collectif-quiz>
 
-### 🧰 Stack utilisée {#stack-quiz}
+### 🧰 Stack utilisée
 
   <p>
     <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
