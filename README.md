@@ -186,11 +186,11 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 
   <!-- Screenshots -->
   <p align="center">
-    <img src="URL_SCREENSHOT_1" alt="Aperçu 1 du projet Ada Check Event" width="45%" />
-    <img src="URL_SCREENSHOT_2" alt="Aperçu 2 du projet Ada Check Event" width="45%" />
+    <img src="screenshots/ada-check-event/ada-check-event-main-page.png" alt="Aperçu 1 du projet Ada Check Event" width="45%" />
+    <img src="screenshots/ada-check-event/ada-check-event-main-page-filter.png" alt="Aperçu 2 du projet Ada Check Event" width="45%" />
     <br><br>
-    <img src="URL_SCREENSHOT_3" alt="Aperçu 3 du projet Ada Check Event" width="45%" />
-    <img src="URL_SCREENSHOT_4" alt="Aperçu 4 du projet Ada Check Event" width="45%" />
+    <img src="screenshots/ada-check-event/ada-check-event-main-page-see-more.png" alt="Aperçu 3 du projet Ada Check Event" width="45%" />
+    <img src="screenshots/ada-check-event/ada-check-event-favorites-page.png" alt="Aperçu 4 du projet Ada Check Event" width="45%" />
   </p>
 
   <br>
@@ -237,11 +237,11 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 
   <!-- Screenshots -->
   <p align="center">
-    <img src="URL_SCREENSHOT_1" alt="Aperçu 1 du projet AdAction" width="45%" />
-    <img src="URL_SCREENSHOT_2" alt="Aperçu 2 du projet AdAction" width="45%" />
+    <img src="screenshots/adaction/adaction-main-page.png" alt="Aperçu 1 du projet AdAction" width="45%" />
+    <img src="screenshots/adaction/adaction-user-dashboard.png" alt="Aperçu 2 du projet AdAction" width="45%" />
     <br><br>
-    <img src="URL_SCREENSHOT_3" alt="Aperçu 3 du projet AdAction" width="45%" />
-    <img src="URL_SCREENSHOT_4" alt="Aperçu 4 du projet AdAction" width="45%" />
+    <img src="screenshots/adaction/adaction-add-new-collect.png" alt="Aperçu 3 du projet AdAction" width="45%" />
+    <img src="screenshots/adaction/adaction-admin-dashboard.png" alt="Aperçu 4 du projet AdAction" width="45%" />
   </p>
 
   <br>
@@ -288,11 +288,11 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 
   <!-- Screenshots -->
   <p align="center">
-    <img src="URL_SCREENSHOT_1" alt="Aperçu 1 du projet Adaopte" width="45%" />
-    <img src="URL_SCREENSHOT_2" alt="Aperçu 2 du projet Adaopte" width="45%" />
+    <img src="screenshots/adaopte/adaopte-main-page.png" alt="Aperçu 1 du projet Adaopte" width="45%" />
+    <img src="screenshots/adaopte/adaopte-main-page-photo-grid.png" alt="Aperçu 2 du projet Adaopte" width="45%" />
     <br><br>
-    <img src="URL_SCREENSHOT_3" alt="Aperçu 3 du projet Adaopte" width="45%" />
-    <img src="URL_SCREENSHOT_4" alt="Aperçu 4 du projet Adaopte" width="45%" />
+    <img src="screenshots/adaopte/adaopte-adopt-page-filter-on.png" alt="Aperçu 3 du projet Adaopte" width="45%" />
+    <img src="screenshots/adaopte/adaopte-adopt-page-filter-off.png" alt="Aperçu 4 du projet Adaopte" width="45%" />
   </p>
 
   <br>
@@ -340,11 +340,11 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 
   <!-- Screenshots -->
   <p align="center">
-    <img src="URL_SCREENSHOT_1" alt="Aperçu 1 du projet Dataviz" width="45%" />
-    <img src="URL_SCREENSHOT_2" alt="Aperçu 2 du projet Dataviz" width="45%" />
+    <img src="screenshots/dataviz/dataviz-main-page.png" alt="Aperçu 1 du projet Dataviz" width="45%" />
+    <img src="screenshots/dataviz/dataviz-hierarchy-clans-page.png" alt="Aperçu 2 du projet Dataviz" width="45%" />
     <br><br>
-    <img src="URL_SCREENSHOT_3" alt="Aperçu 3 du projet Dataviz" width="45%" />
-    <img src="URL_SCREENSHOT_4" alt="Aperçu 4 du projet Dataviz" width="45%" />
+    <img src="screenshots/dataviz/dataviz-hierarchy-kage-page.png" alt="Aperçu 3 du projet Dataviz" width="45%" />
+    <img src="screenshots/dataviz/dataviz-character-page-details.png" alt="Aperçu 4 du projet Dataviz" width="45%" />
   </p>
 
   <br>
@@ -399,11 +399,11 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 
   <!-- Screenshots -->
   <p align="center">
-    <img src="URL_SCREENSHOT_1" alt="Aperçu 1 du projet Quiz" width="45%" />
-    <img src="URL_SCREENSHOT_2" alt="Aperçu 2 du projet Quiz" width="45%" />
+    <img src="screenshots/quiz/quiz-main-page.png" alt="Aperçu 1 du projet Quiz" width="45%" />
+    <img src="screenshots/quiz/quiz-good-answer.png" alt="Aperçu 2 du projet Quiz" width="45%" />
     <br><br>
-    <img src="URL_SCREENSHOT_3" alt="Aperçu 3 du projet Quiz" width="45%" />
-    <img src="URL_SCREENSHOT_4" alt="Aperçu 4 du projet Quiz" width="45%" />
+    <img src="screenshots/quiz/quiz-wrong-answer.png" alt="Aperçu 3 du projet Quiz" width="45%" />
+    <img src="screenshots/quiz/quiz-end-message.png" alt="Aperçu 4 du projet Quiz" width="45%" />
   </p>
 
   <br>
