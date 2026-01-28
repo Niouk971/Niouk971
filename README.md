@@ -159,7 +159,7 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 - Filtrage des projets par promotion et par statut  
 - Architecture modulaire et scalable combinant **Server Components** et **Client Components**
 
-📅 **Durée :** 2 semaines  
+📅 **Durée :** 2 semaines
 👥 **Équipe :** 4 personnes
 
 - 🖥️ Démo : <https://adaverse-2-0.vercel.app>  
@@ -212,7 +212,7 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 - Filtrage des événements côté client en fonction des mots‑clés saisis  
 - Architecture en composants réutilisables pour organiser la liste, les cartes d’événements et les favoris
 
-📅 **Durée :** 2 semaines  
+📅 **Durée :** 2 semaines
 👥 **Équipe :** 2 personnes
 
 - 🖥️ Démo : <https://projet-collectif-ada-check-event.vercel.app/>
