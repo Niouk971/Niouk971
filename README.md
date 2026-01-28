@@ -70,7 +70,7 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
@@ -169,7 +169,7 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 
   <p>
     <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs" alt="Next.js" />
-    <img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=white" alt="React" />
     <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
     <img src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
     <img src="https://img.shields.io/badge/PostgreSQL-31648c?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -221,7 +221,7 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 ### 🧰 Stack utilisée {#stack-adacheckevent}
 
   <p>
-    <img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=white" alt="React" />
     <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
