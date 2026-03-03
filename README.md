@@ -62,6 +62,20 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 
 <!-- markdownlint-disable MD033 -->
 
+### 🧩 **Langages**
+
+- JavaScript
+- TypeScript
+- Écriture de code propre, typé, lisible et maintenable
+- Bonne compréhension des concepts modernes (ES6+, typage, modules, async/await)
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
+
+---
+
 ### 💻 **Frontend**
 
 - React, Next.js (App Router, Server/Client Components)  
@@ -69,10 +83,9 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 - UI responsive, composants réutilisables, logique propre  
 
 <p>
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs" alt="Next.js" />
   <img src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
 ---
