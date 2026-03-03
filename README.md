@@ -175,7 +175,7 @@ Aujourd’hui, je souhaite aller plus loin en entreprise, apprendre auprès de d
 📅 **Durée :** 2 semaines
 👥 **Équipe :** 4 personnes
 
-- 🖥️ Démo : <https://adaverse-2-0.vercel.app>  
+- 🖥️ Démo : <https://projet-collectif-adaverse-2-0.vercel.app/>  
 - 📦 Repo : <https://github.com/Niouk971/projet-collectif-adaverse-2.0>
 
 ### 🧰 Stack utilisée
