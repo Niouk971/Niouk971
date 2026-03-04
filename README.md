@@ -1,14 +1,8 @@
 <!-- markdownlint-disable MD033 -->
 
 <!-- Bannière GitHub -->
-<h1 align="center">✨ Florian — Développeur Web Full‑Stack ✨</h1>
-
 <p align="center">
-  <strong>Next.js • TypeScript • PostgreSQL • Drizzle ORM • Vercel</strong>
-</p>
-
-<p align="center">
-  Construire des applications modernes, scalables et élégantes — c’est ce qui me passionne.
+  <img src="./bannières/banniere-github-florian-polter.png" alt="Bannière GitHub Florian Polter" width="1000" />
 </p>
 
 <!-- markdownlint-enable MD033 -->
